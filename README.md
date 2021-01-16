@@ -5,7 +5,7 @@
 ### About me
 I started coding in July, 2019 when I got into Hive Helsinki.<br>
 
-### Tools
+### Skillset
 – C<br>
 – Python<br>
 – HTML & CSS<br>
