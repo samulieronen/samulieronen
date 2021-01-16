@@ -1,21 +1,21 @@
 ## Hi there, I'm Samuli Eronen 👋
 
-### Seeking for an Internship / Junior Position as a part of my studies! <br><br>
+### Seeking for an Internship / Junior Position as a part of my studies! <br>
 
-### About me<br>
+### About me
 I started coding in July, 2019 when I got into Hive Helsinki.<br>
 
-### Tools<br>
+### Tools
 – C<br>
 – Python<br>
-– HTML & CSS<br><br>
+– HTML & CSS<br>
 
-### Hot topics<br>
+### Hot topics
 *topic*: 🔭 I’m currently working on Corewar, which is a project that I have in Hive Helsinki.<br>
 *topic->next*: 🌱 I’m currently learning Python, JS, React, PostgreSQL<br>
 *topic->next->next*: 💬 Ask me about how it feels like going to a coding school with no idea what coding is...Yet, here we are!<br><br>
 
-### My *newbie* stats<br>
+### My *newbie* stats
 [![Samuli's github stats](https://github-readme-stats.vercel.app/api?username=samulieronen&theme=dark&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
