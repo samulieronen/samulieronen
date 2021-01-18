@@ -13,7 +13,7 @@ I started coding in July, 2019 when I got into Hive Helsinki.<br>
 ### Hot topics
 *topic*: 🔭 I’m currently working on Corewar, which is a project that I have in Hive Helsinki.<br>
 *topic->next*: 🌱 I’m currently learning Python, JS, React, PostgreSQL<br>
-*topic->next->next*: 💬 Ask me about how it feels like going to a coding school with no idea what coding is...Yet, here we are!<br><br>
+*topic->next->next*: 💬 Ask me about why your BMW M54B25 motor runs lean. I can provide diagnostic service for a small compensation!<br><br>
 
 ### My *newbie* stats
 [![Samuli's github stats](https://github-readme-stats.vercel.app/api?username=samulieronen&theme=dark&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
