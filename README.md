@@ -1,4 +1,4 @@
-## Hi there, I'm Samuli Eronen 👋
+## Welcome, stranger! 👋
 
 ### Seeking for an Internship / Junior Position as a part of my studies! <br>
 
@@ -8,12 +8,18 @@ I started coding in July, 2019 when I got into Hive Helsinki.<br>
 ### Skillset
 – C<br>
 – Python<br>
+– JavaScript, React.js, Express.js, MongoDB<br>
 – HTML & CSS<br>
 
+### Interests
+– Full Stack / Backend development<br>
+– ML & AI<br>
+– Messing around with data<br>
+
 ### Hot topics
-*topic*: 🔭 I’m currently working on Corewar, which is a project that I have in Hive Helsinki.<br>
-*topic->next*: 🌱 I’m currently learning Python, JS, React, PostgreSQL<br>
-*topic->next->next*: 💬 Ask me about why your BMW M54B25 motor runs lean. I can provide diagnostic service for a small compensation!<br><br>
+*topic*: 🔭 I’m currently working on Corewar, which is a project based on the real corewar game, published in 1984.<br>
+*topic->next*: 🌱 I’m currently learning the MERN stack with other web dev quirks.<br>
+*topic->next->next*: 💬 Ask me about why your BMW M54B25 motor runs lean. I can provide diagnostic service for that matter.<br><br>
 
 ### My *newbie* stats
 [![Samuli's github stats](https://github-readme-stats.vercel.app/api?username=samulieronen&theme=dark&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
