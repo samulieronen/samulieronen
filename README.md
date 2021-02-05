@@ -22,7 +22,7 @@ I started coding in July, 2019 when I got into Hive Helsinki.<br>
 *topic->next->next*: 💬 Ask me about why your BMW M54B25 motor runs lean. I can provide diagnostic service for that matter.<br><br>
 
 ### My *newbie* stats
-[![Samuli's github stats](https://github-readme-stats.vercel.app/api?username=samulieronen&theme=dark&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
+[![Samuli's github stats](https://github-readme-stats.vercel.app/api?username=samulieronen&theme=dark&hide=prs)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samulieronen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **samulieronen/samulieronen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
