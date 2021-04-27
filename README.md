@@ -7,7 +7,8 @@ I started coding in July, 2019 when I got into Hive Helsinki.<br>
 – C<br>
 – Python<br>
 – JavaScript, React.js, Express.js, MongoDB<br>
-– HTML & CSS<br>
+– PHP (Soon)<br>
+– HTML & CSS (SCSS)<br>
 
 ### Interests
 – Full Stack / Backend development<br>
@@ -15,7 +16,7 @@ I started coding in July, 2019 when I got into Hive Helsinki.<br>
 – Messing around with data<br>
 
 ### Hot topics
-*topic*: 🔭 I’m currently working on Corewar, which is a project based on the real corewar game, published in 1984.<br>
+*topic*: 🔭 I’m currently working.<br>
 *topic->next*: 🌱 I’m currently learning the MERN stack with other web dev quirks.<br>
 
 ### My *newbie* stats
