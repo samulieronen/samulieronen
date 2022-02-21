@@ -15,8 +15,8 @@ Usually roams around the Helsinki Metropolitan Area<br>
 - JS, React.js, Vue.js
 
 ### Interests
-– Full Stack / Backend development<br>
-- Algorithms<br>
+- Full Stack / Backend development
+- Algorithms
 
 ### Topics
 *topic*: 🔭 Probably sitting in front of some code as you read this<br>
