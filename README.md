@@ -7,13 +7,12 @@ Works best in a fairly challenging evironment<br>
 Usually roams around the Helsinki Metropolitan Area<br>
 
 ### Skillz
-– C<br>
-– Python<br>
-- Java<br>
-- Swift<br>
-– JavaScript, React.js, Vue.js<br>
-– HTML & CSS (sass)<br>
-– PHP<br>
+- C
+- Java
+- Python
+- PHP
+- HTML & CSS (sass)
+- JS, React.js, Vue.js
 
 ### Interests
 – Full Stack / Backend development<br>
