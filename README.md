@@ -11,6 +11,7 @@ Usually roams around the Helsinki Metropolitan Area<br>
 - Java
 - Python
 - PHP
+- Swift (iOS development basics)
 - HTML & CSS (sass)
 - JS, React.js, Vue.js
 
