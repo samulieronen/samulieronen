@@ -1,12 +1,12 @@
 ## Welcome, stranger! 👋
 
-### specs
+### Specs
 Hive Helsinki student and a true computational thinker<br>
 Runs with caffeine drinks and good food<br>
 Works best in a fairly challenging evironment<br>
 Usually roams around the Helsinki Metropolitan Area<br>
 
-### skillz
+### Skillz
 – C<br>
 – Python<br>
 - Java<br>
@@ -15,15 +15,15 @@ Usually roams around the Helsinki Metropolitan Area<br>
 – HTML & CSS (sass)<br>
 – PHP<br>
 
-### interests
+### Interests
 – Full Stack / Backend development<br>
 - Algorithms<br>
 
-### topics
+### Topics
 *topic*: 🔭 Probably sitting in front of some code as you read this<br>
 *topic->next*: 🌱 Learning Web 3 & Crypto stuff<br>
 
-### stats
+### Stats
 [![Samuli's github stats](https://github-readme-stats.vercel.app/api?username=samulieronen&theme=dark&hide=prs)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samulieronen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
