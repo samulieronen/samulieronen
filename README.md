@@ -1,25 +1,29 @@
 ## Welcome, stranger! 👋
 
-### About me
-I started coding in July, 2019 when I got into Hive Helsinki.<br>
+### specs
+Hive Helsinki student and a true computational thinker<br>
+Runs with caffeine drinks and good food<br>
+Works best in a fairly challenging evironment<br>
+Usually roams around the Helsinki Metropolitan Area<br>
 
-### Skillset
+### skillz
 – C<br>
 – Python<br>
-– JavaScript, React.js, Express.js, MongoDB<br>
-– PHP (Soon)<br>
-– HTML & CSS (SCSS)<br>
+- Java<br>
+- Swift<br>
+– JavaScript, React.js, Vue.js<br>
+– HTML & CSS (sass)<br>
+– PHP<br>
 
-### Interests
+### interests
 – Full Stack / Backend development<br>
-– ML & AI<br>
-– Messing around with data<br>
+- Algorithms<br>
 
-### Hot topics
-*topic*: 🔭 I’m currently working.<br>
-*topic->next*: 🌱 I’m currently learning the MERN stack with other web dev quirks.<br>
+### topics
+*topic*: 🔭 Probably sitting in front of some code as you read this<br>
+*topic->next*: 🌱 Learning Web 3 & Crypto stuff<br>
 
-### My *newbie* stats
+### stats
 [![Samuli's github stats](https://github-readme-stats.vercel.app/api?username=samulieronen&theme=dark&hide=prs)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samulieronen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
